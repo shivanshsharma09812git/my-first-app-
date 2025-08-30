@@ -1,0 +1,52 @@
+/*.my-element {
+   // position: relative;
+   //top: 20px; /* Moves the element 20px down from its original position */
+       /*left: 30px; /* Moves the element 30px right from its original position */
+    body {
+      background-color: black;
+    }
+        @font-face {
+          font-family: "MyCustomFont";
+          src: url("revenue.ttf")
+        }
+
+        body {
+          font-family: "MyCustomFont";
+        }
+p{
+  
+  font-size: 40px;
+  color: red;
+  position: relative;
+  top: 250px;
+  left: 180px;
+}
+#b1{
+  font-family: "MyCustomFont";
+  background-color: lightblue;
+  position: relative;
+  top: 260px;
+  left: 150px;
+  height: 40px;
+  border-radius: 10px;
+}
+#b2{
+  font-family: "MyCustomFont";
+  background-color: lightblue;
+  position: relative;
+  top: 310px;
+  left: 63px;
+  width: 82px;
+  height: 40px;
+  border-radius: 10px;
+}
+#b3{
+  font-family: "MyCustomFont";
+  background-color: lightblue;
+  position: relative;
+  top: 360px;
+  right: 23px;
+  width: 82px;
+  height: 40px;
+  border-radius: 10px;
+}
