@@ -1,13 +1,13 @@
 plugins {
-    id 'me.stupid.myfirstapp'
+    id 'com.example.myapp'
 }
 
 android {
-    namespace "me.stupid.myfirstapp"
+    namespace "com.example.myapp"
     compileSdk 34
 
     defaultConfig {
-        applicationId "me.stupid.myfirstapp"
+        applicationId "com.example.myapp"
         minSdk 21
         targetSdk 34
         versionCode 1
